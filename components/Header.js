@@ -22,10 +22,10 @@ export default function Header() {
       <div className="mx-auto flex w-[92%] max-w-6xl items-center justify-between gap-4 py-4 min-h-[68px]">
         <Link href="/" className="flex items-center gap-3 font-display text-lg font-bold tracking-tight text-ink">
           <Image
-            src="/logo.svg"
+            src="/FINAL_LOGO-AI-MASTERY.png"
             alt="AI Mastery Step"
             width={220}
-            height={60}
+            height={80}
             priority
             className="block h-12 w-auto object-contain"
           />
