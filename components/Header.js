@@ -24,10 +24,10 @@ export default function Header() {
           <Image
             src="/FINAL_LOGO-AI-MASTERY.png"
             alt="AI Mastery Step"
-            width={220}
-            height={80}
+            width={160}
+            height={48}
             priority
-            className="block h-12 w-auto object-contain"
+            className="block h-10 md:h-12 w-auto object-contain"
           />
         </Link>
 
