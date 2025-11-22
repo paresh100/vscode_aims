@@ -1,5 +1,7 @@
 # AI Mastery Step — Course Site
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 This repository contains the source for the "AI Mastery Step" course site — a small, beginner-friendly Next.js site and static pages for small business owners who want simple, practical steps to use AI.
 
 ## Features
